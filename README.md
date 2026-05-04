@@ -4,6 +4,6 @@ Soon will feature CANBUS support.
 
 HOW TO USE:
 
-After installing, run the following:
+Once installed, build, then source and then run:
 
 ros2 run BLD515C_driver node_rs485
