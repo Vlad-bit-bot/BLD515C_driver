@@ -1,5 +1,5 @@
 import minimalmodbus
-from BLD515C_driver.register_dictionary import *
+from register_dictionary import *
 default_port = '/dev/ttyUSB0'
 
 class Connection:

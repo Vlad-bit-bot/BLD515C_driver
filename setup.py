@@ -16,7 +16,7 @@ setup(
     maintainer='robot',
     maintainer_email='robot@todo.todo',
     description='TODO: Package description',
-    license='TODO: License declaration',
+    license='MIT licence',
     extras_require={
         'test': [
             'pytest',

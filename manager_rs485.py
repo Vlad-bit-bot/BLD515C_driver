@@ -1,4 +1,4 @@
-from BLD515C_driver.connection_rs485 import Connection, default_port  # importing all basic actions
+from connection_rs485 import Connection, default_port  # importing all basic actions
 import time
 REVERSED = 1
 FORWARD = 0

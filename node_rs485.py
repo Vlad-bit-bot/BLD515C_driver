@@ -2,7 +2,7 @@ import rclpy
 from rclpy.node import Node
 from geometry_msgs.msg import Twist
 from nav_msgs.msg import Odometry
-from BLD515C_driver.manager_rs485 import Controller
+from manager_rs485 import Controller
 import math
 
 
@@ -45,4 +45,4 @@ def main(args=None):
         rclpy.shutdown()
 
 if __name__ == '__main__':
-    main()  
+    main()
